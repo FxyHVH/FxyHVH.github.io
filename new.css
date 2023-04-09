@@ -1,0 +1,2105 @@
+:root {
+	--web-view-ids: Web_1920__1, iPhone_14_Pro_Max__1;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: false;
+	--web-scale-to-fit-type: default;
+	--web-enable-scale-up: false;
+	--web-scale-on-resize: false;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: false;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: false;
+	--web-application: true;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+}
+#Web_1920__1,
+#iPhone_14_Pro_Max__1 {
+	display: none;
+}
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+		scroll-behavior: smooth;
+		overflow-x: hidden;
+		overflow: scroll;
+	}
+
+	::-webkit-scrollbar {
+		width: 0;  /* Remove scrollbar space */
+		background: transparent;  /* Optional: just make scrollbar invisible */
+		color: transparent;
+	}
+	
+	#Web_1920__1 {
+		position: absolute;
+		display: block;
+		width: 1900px;
+		height: 4010px;
+		background-color: rgba(249,249,249,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#nav {
+		position: absolute;
+		width: 1606px;
+		height: 60px;
+		left: 158px;
+		top: 30px;
+		overflow: visible;
+	}
+	#Group_7 {
+		position: absolute;
+		width: 1606px;
+		height: 60px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_2 {
+		fill: rgba(62,62,62,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_2 {
+		overflow: visible;
+		position: absolute;
+		width: 1606px;
+		height: 60px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#logo {
+		position: absolute;
+		width: 164px;
+		height: 54px;
+		left: 3px;
+		top: 3px;
+		overflow: visible;
+	}
+	#Rectangle_4 {
+		fill: rgba(23,23,23,1);
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 164px;
+		height: 54px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_2 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 40px;
+		height: 34px;
+		left: 15px;
+		top: 10px;
+	}
+	#Path_1 {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_1 {
+		overflow: visible;
+		position: absolute;
+		width: 29.512px;
+		height: 21.274px;
+		left: 21.103px;
+		top: 16.824px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Axielol {
+		left: 66px;
+		top: 17px;
+		position: absolute;
+		overflow: visible;
+		width: 70px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Products {
+		left: 666px;
+		top: 17px;
+		position: absolute;
+		overflow: visible;
+		width: 85px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		text-decoration: none;
+		color: rgba(255,255,255,1);
+	}
+	#Terms_Of_Service {
+		left: 791px;
+		top: 17px;
+		position: absolute;
+		overflow: visible;
+		width: 156px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#contactus-button {
+		position: absolute;
+		width: 113px;
+		height: 40px;
+		left: 1485px;
+		top: 10px;
+		overflow: visible;
+	}
+	#Rectangle_3 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Contact_us {
+		left: 18px;
+		top: 10px;
+		position: absolute;
+		overflow: visible;
+		width: 78px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		text-decoration: none;
+		color: rgba(255,255,255,1);
+	}
+	#main {
+		position: absolute;
+		width: 712px;
+		height: 257px;
+		left: 594px;
+		top: 366px;
+		overflow: visible;
+	}
+	#Rectangle_5 {
+		fill: rgba(241,193,255,1);
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 317px;
+		height: 20px;
+		left: 98px;
+		top: 96px;
+	}
+	#Experience_a_new_level_of_game {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 713px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 47px;
+		color: rgba(51,51,51,1);
+	}
+	#contiue-button {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 147px;
+		height: 40px;
+		left: 183px;
+		top: 217px;
+		overflow: visible;
+	}
+	#Rectangle_3_y {
+		fill: rgba(74,74,74,1);
+	}
+	.Rectangle_3_y {
+		position: absolute;
+		overflow: visible;
+		width: 147px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Start_Shopping {
+		left: 17px;
+		top: 10px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		text-decoration: none;
+		color: rgba(255,255,255,1);
+	}
+	#contiue-button_ {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 147px;
+		height: 40px;
+		left: 401px;
+		top: 217px;
+		overflow: visible;
+	}
+	#Rectangle_3_ {
+		fill: rgba(74,74,74,1);
+		stroke: rgba(238,149,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_3_ {
+		position: absolute;
+		overflow: visible;
+		width: 147px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Contact_us_ {
+		left: 34px;
+		top: 10px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		text-decoration: none;
+		color: rgba(255,255,255,1);
+	}
+	#stats {
+		position: absolute;
+		width: 1253px;
+		height: 169px;
+		left: 323.5px;
+		top: 1108px;
+		overflow: visible;
+	}
+	#Rectangle_6_ {
+		fill: url(#Rectangle_6_);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_6_ {
+		position: absolute;
+		overflow: visible;
+		width: 1253px;
+		height: 169px;
+		left: 0px;
+		top: 0px;
+	}
+	#n_000 {
+		left: 167px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 191px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 62px;
+		color: rgba(51,51,51,1);
+	}
+	#Already_Registered_Users {
+		left: 157px;
+		top: 114px;
+		position: absolute;
+		overflow: visible;
+		width: 233px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(91,91,91,1);
+	}
+	#NA {
+		left: 603px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 112px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 62px;
+		color: rgba(51,51,51,1);
+	}
+	#Product_use_per_month {
+		left: 550px;
+		top: 114px;
+		position: absolute;
+		overflow: visible;
+		width: 217px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(91,91,91,1);
+	}
+	#NA_ba {
+		left: 960px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 112px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 62px;
+		color: rgba(51,51,51,1);
+	}
+	#Uptime {
+		left: 982px;
+		top: 114px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(91,91,91,1);
+	}
+	#payment {
+		position: absolute;
+		width: 803.996px;
+		height: 129.502px;
+		left: 548.002px;
+		top: 920.5px;
+		overflow: visible;
+	}
+	#paypal {
+		position: absolute;
+		width: 40.801px;
+		height: 48.003px;
+		left: 0px;
+		top: 81.499px;
+		overflow: visible;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 40.801px;
+		height: 48.003px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_3 {
+		fill: rgba(51,51,51,1);
+	}
+	.Path_3 {
+		overflow: visible;
+		position: absolute;
+		width: 40.801px;
+		height: 48.003px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Paypal_bg {
+		left: 54px;
+		top: 89.5px;
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(51,51,51,1);
+	}
+	#bitcoin {
+		position: absolute;
+		width: 47.992px;
+		height: 48px;
+		left: 209px;
+		top: 81.5px;
+		overflow: visible;
+	}
+	#Path_4 {
+		fill: rgba(51,51,51,1);
+	}
+	.Path_4 {
+		overflow: visible;
+		position: absolute;
+		width: 47.992px;
+		height: 48px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Bitcoin_bj {
+		left: 269.996px;
+		top: 89.5px;
+		position: absolute;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(51,51,51,1);
+	}
+	#Litecoin {
+		left: 490.996px;
+		top: 89.5px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(51,51,51,1);
+	}
+	#litecoin {
+		position: absolute;
+		width: 48px;
+		height: 48px;
+		left: 429.996px;
+		top: 81.5px;
+		overflow: visible;
+	}
+	#Path_5 {
+		fill: rgba(51,51,51,1);
+	}
+	.Path_5 {
+		overflow: visible;
+		position: absolute;
+		width: 48px;
+		height: 48px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ethereum {
+		position: absolute;
+		width: 29.68px;
+		height: 48px;
+		left: 662.996px;
+		top: 81.5px;
+		overflow: visible;
+	}
+	#Path_6 {
+		fill: rgba(51,51,51,1);
+	}
+	.Path_6 {
+		overflow: visible;
+		position: absolute;
+		width: 29.68px;
+		height: 48px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Etherum {
+		left: 705.996px;
+		top: 89.5px;
+		position: absolute;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(51,51,51,1);
+	}
+	#Payment_Methods {
+		left: 299.496px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 177px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(148,148,148,1);
+	}
+	#Group_2 {
+		position: absolute;
+		width: 1144px;
+		height: 747px;
+		left: 378px;
+		top: 1515px;
+		overflow: visible;
+	}
+	#Path_15 {
+		fill: rgba(32,32,32,1);
+	}
+	.Path_15 {
+		overflow: visible;
+		position: absolute;
+		width: 1082px;
+		height: 634px;
+		left: 62px;
+		top: 113px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_5 {
+		position: absolute;
+		width: 253px;
+		height: 279px;
+		left: 427px;
+		top: 185px;
+		overflow: visible;
+	}
+	#Rectangle_2_bu {
+		fill: rgba(83,83,83,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2_bu {
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		height: 279px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_3_bv {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_3_bv {
+		position: absolute;
+		overflow: visible;
+		width: 242px;
+		height: 161px;
+		left: 6px;
+		top: 116px;
+	}
+	#Flux {
+		left: 70px;
+		top: 7px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 54px;
+		color: rgba(255,255,255,1);
+	}
+	#Minecraft_modification_utility {
+		left: 51px;
+		top: 73px;
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 9px;
+		color: rgba(255,255,255,1);
+	}
+	#n_499 {
+		left: 54px;
+		top: 125px;
+		position: absolute;
+		overflow: visible;
+		width: 133px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 42px;
+		color: rgba(83,83,83,1);
+	}
+	#Line_1 {
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 201.833px;
+		height: 1px;
+		left: 23.155px;
+		top: 201.125px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_4_b {
+		fill: rgba(83,83,83,1);
+	}
+	.Rectangle_4_b {
+		position: absolute;
+		overflow: visible;
+		width: 192px;
+		height: 41px;
+		left: 28px;
+		top: 221px;
+	}
+	#Buy_now {
+		left: 93px;
+		top: 232px;
+		position: absolute;
+		overflow: visible;
+		width: 56px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Blatant {
+		left: 105px;
+		top: 85px;
+		position: absolute;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 9px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_14 {
+		fill: rgba(46,46,46,1);
+	}
+	.Rectangle_14 {
+		position: absolute;
+		overflow: visible;
+		width: 353px;
+		height: 633px;
+		left: 0px;
+		top: 113px;
+	}
+	#What_is_a_Minecraft__Modificat {
+		left: 24px;
+		top: 160px;
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+	#A_Minecraft_Modification_Utili {
+		left: 54px;
+		top: 261px;
+		position: absolute;
+		overflow: visible;
+		width: 243px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(188,188,188,1);
+	}
+	#We_Are_Currently_Supporting_Wi {
+		left: 67px;
+		top: 717px;
+		position: absolute;
+		overflow: visible;
+		width: 221px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+	}
+	#windows {
+		position: absolute;
+		width: 17.105px;
+		height: 17.975px;
+		left: 168.178px;
+		top: 699.078px;
+		overflow: visible;
+	}
+	#Group_6 {
+		position: absolute;
+		width: 17.105px;
+		height: 17.975px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_14 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_14 {
+		overflow: visible;
+		position: absolute;
+		width: 17.105px;
+		height: 17.975px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#gay {
+		position: absolute;
+		width: 465px;
+		height: 36px;
+		left: 340px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Weve_got_a_client_thats_perfec {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 416px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(51,51,51,1);
+	}
+	#You {
+		left: 419px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(51,51,51,1);
+	}
+	#Group_8 {
+		position: absolute;
+		width: 253px;
+		height: 67px;
+		left: 763px;
+		top: 185px;
+		overflow: visible;
+	}
+	#Rectangle_2_ce {
+		fill: rgba(83,83,83,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2_ce {
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		height: 67px;
+		left: 0px;
+		top: 0px;
+	}
+	#Empty_ {
+		left: 86px;
+		top: 20px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_9 {
+		position: absolute;
+		width: 253px;
+		height: 67px;
+		left: 763px;
+		top: 291px;
+		overflow: visible;
+	}
+	#Rectangle_2_ch {
+		fill: rgba(83,83,83,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2_ch {
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		height: 67px;
+		left: 0px;
+		top: 0px;
+	}
+	#Empty__ci {
+		left: 86px;
+		top: 20px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_10 {
+		position: absolute;
+		width: 253px;
+		height: 67px;
+		left: 763px;
+		top: 397px;
+		overflow: visible;
+	}
+	#Rectangle_2_ck {
+		fill: rgba(83,83,83,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2_ck {
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		height: 67px;
+		left: 0px;
+		top: 0px;
+	}
+	#Empty__cl {
+		left: 86px;
+		top: 20px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(255,255,255,1);
+	}
+	#gayrs {
+		position: absolute;
+		width: 1350px;
+		height: 373px;
+		left: 275px;
+		top: 2531px;
+		overflow: visible;
+	}
+	#Rectangle_15 {
+		fill: rgba(32,32,32,1);
+	}
+	.Rectangle_15 {
+		position: absolute;
+		overflow: visible;
+		width: 1350px;
+		height: 236px;
+		left: 0px;
+		top: 137px;
+	}
+	#Group_4 {
+		position: absolute;
+		width: 338px;
+		height: 55px;
+		left: 501px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Why_choose {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 229px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(83,83,83,1);
+	}
+	#Axie {
+		left: 232px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(83,83,83,1);
+	}
+	#sixthGay {
+		position: absolute;
+		width: 373px;
+		height: 133px;
+		left: 89px;
+		top: 188px;
+		overflow: visible;
+	}
+	#Rectangle_5_cs {
+		fill: rgba(83,83,83,1);
+	}
+	.Rectangle_5_cs {
+		position: absolute;
+		overflow: visible;
+		width: 373px;
+		height: 133px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_11 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_11 {
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		height: 90px;
+		left: 16px;
+		top: 22px;
+	}
+	#lightning-solid {
+		position: absolute;
+		width: 34.19px;
+		height: 42.667px;
+		left: 46.405px;
+		top: 45.667px;
+		overflow: visible;
+	}
+	#Path_6_cv {
+		fill: rgba(255,126,126,1);
+	}
+	.Path_6_cv {
+		overflow: visible;
+		position: absolute;
+		width: 34.19px;
+		height: 42.667px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Fast_Delivery {
+		left: 118px;
+		top: 18px;
+		position: absolute;
+		overflow: visible;
+		width: 158px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Receive_your_order_as_soon_as_ {
+		left: 118px;
+		top: 60px;
+		position: absolute;
+		overflow: visible;
+		width: 217px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+	}
+	#fourthGay {
+		position: absolute;
+		width: 373px;
+		height: 133px;
+		left: 501px;
+		top: 189px;
+		overflow: visible;
+	}
+	#Rectangle_5_cz {
+		fill: rgba(83,83,83,1);
+	}
+	.Rectangle_5_cz {
+		position: absolute;
+		overflow: visible;
+		width: 373px;
+		height: 133px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_11_c {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_11_c {
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		height: 90px;
+		left: 16px;
+		top: 22px;
+	}
+	#money {
+		position: absolute;
+		width: 42px;
+		height: 36px;
+		left: 43px;
+		top: 49px;
+		overflow: visible;
+	}
+	#Path_7 {
+		fill: rgba(76,171,107,1);
+	}
+	.Path_7 {
+		overflow: visible;
+		position: absolute;
+		width: 42px;
+		height: 3px;
+		left: 0px;
+		top: 27px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_8 {
+		fill: rgba(76,171,107,1);
+	}
+	.Path_8 {
+		overflow: visible;
+		position: absolute;
+		width: 42px;
+		height: 3px;
+		left: 0px;
+		top: 33px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_9 {
+		fill: rgba(76,171,107,1);
+	}
+	.Path_9 {
+		overflow: visible;
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 30px;
+		top: 9px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_10 {
+		fill: rgba(76,171,107,1);
+	}
+	.Path_10 {
+		overflow: visible;
+		position: absolute;
+		width: 12px;
+		height: 12px;
+		left: 15px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_11 {
+		fill: rgba(76,171,107,1);
+	}
+	.Path_11 {
+		overflow: visible;
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 6px;
+		top: 9px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_12 {
+		fill: rgba(76,171,107,1);
+	}
+	.Path_12 {
+		overflow: visible;
+		position: absolute;
+		width: 42px;
+		height: 24px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Affordable {
+		left: 121px;
+		top: 23px;
+		position: absolute;
+		overflow: visible;
+		width: 133px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Our_products_are_very_cheap__a {
+		left: 121px;
+		top: 67px;
+		position: absolute;
+		overflow: visible;
+		width: 178px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#thirdGay {
+		position: absolute;
+		width: 373px;
+		height: 133px;
+		left: 908px;
+		top: 188px;
+		overflow: visible;
+	}
+	#Rectangle_5_db {
+		fill: rgba(83,83,83,1);
+	}
+	.Rectangle_5_db {
+		position: absolute;
+		overflow: visible;
+		width: 373px;
+		height: 133px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_11_dc {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_11_dc {
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		height: 90px;
+		left: 16px;
+		top: 22px;
+	}
+	#bx-support {
+		position: absolute;
+		width: 40px;
+		height: 40px;
+		left: 44px;
+		top: 47px;
+		overflow: visible;
+	}
+	#Path_13 {
+		fill: rgba(83,83,83,1);
+	}
+	.Path_13 {
+		overflow: visible;
+		position: absolute;
+		width: 40px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Customer_Support {
+		left: 120px;
+		top: 22px;
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#We_can_help_you_with_any_issue {
+		left: 120px;
+		top: 67px;
+		position: absolute;
+		overflow: visible;
+		width: 202px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#stroke {
+		position: absolute;
+		width: 1900px;
+		height: 682px;
+		left: 0px;
+		top: 3090px;
+		overflow: visible;
+	}
+	#Rectangle_16 {
+		fill: rgba(46,46,46,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_16 {
+		position: absolute;
+		overflow: visible;
+		width: 1900px;
+		height: 682px;
+		left: 0px;
+		top: 0px;
+	}
+	#its_time_for_you__to__ENHANCE_ {
+		left: 566px;
+		top: 86px;
+		position: absolute;
+		overflow: visible;
+		width: 769px;
+		height: 384px;
+		text-align: center;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(240,240,240,1);
+		text-transform: uppercase;
+	}
+	#Rectangle_17 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_17 {
+		position: absolute;
+		overflow: visible;
+		width: 207px;
+		height: 59px;
+		left: 847px;
+		top: 565px;
+	}
+	#BUY_NOW {
+		left: 909px;
+		top: 583px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(46,46,46,1);
+	}
+	#MEDIA {
+		left: 1075px;
+		top: 581px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(46,46,46,1);
+	}
+	#footer {
+		position: absolute;
+		width: 1900px;
+		height: 243px;
+		left: 0px;
+		top: 3772px;
+		overflow: visible;
+	}
+	#Rectangle_12 {
+		fill: rgba(83,83,83,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_12 {
+		position: absolute;
+		overflow: visible;
+		width: 1900px;
+		height: 243px;
+		left: 0px;
+		top: 0px;
+	}
+	#logo_dp {
+		position: absolute;
+		width: 102px;
+		height: 40px;
+		left: 163px;
+		top: 41px;
+		overflow: visible;
+	}
+	#Ellipse_1 {
+		fill: rgba(206,206,206,1);
+	}
+	.Ellipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 37px;
+		height: 36px;
+		left: 0px;
+		top: 4px;
+	}
+	#star_solid {
+		position: absolute;
+		width: 19.15px;
+		height: 18.718px;
+		left: 8.86px;
+		top: 12.641px;
+		overflow: visible;
+	}
+	#Group_1_ds {
+		position: absolute;
+		width: 19.15px;
+		height: 18.718px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_2_dt {
+		fill: rgba(99,99,99,1);
+	}
+	.Path_2_dt {
+		overflow: visible;
+		position: absolute;
+		width: 19.15px;
+		height: 18.718px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Axie_du {
+		left: 43px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 60px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#Path_16 {
+		fill: transparent;
+		stroke: rgba(255,255,255,0.231);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_16 {
+		overflow: visible;
+		position: absolute;
+		width: 957.031px;
+		height: 1px;
+		left: 469.676px;
+		top: 137.724px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Axie_Service__Axie_Team_All_Ri {
+		left: 480px;
+		top: 150px;
+		position: absolute;
+		overflow: visible;
+		width: 209px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#Terms_Of_Service_dx {
+		left: 1215px;
+		top: 149px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(240,240,240,1);
+	}
+	#Privacy_Policy {
+		left: 1328px;
+		top: 149px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(240,240,240,1);
+	}
+
+/* @media (min-width: 400px) and (max-width: 896px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 14 Pro Max – 1;
+		--web-view-id: iPhone_14_Pro_Max__1;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_14_Pro_Max__1 {
+		position: absolute;
+		display: block;
+		width: 430px;
+		height: 2060px;
+		background-color: rgba(249,249,249,1);
+		overflow: hidden;
+		--web-view-name: iPhone 14 Pro Max – 1;
+		--web-view-id: iPhone_14_Pro_Max__1;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#nav_d {
+		position: absolute;
+		width: 75px;
+		height: 24px;
+		left: 178px;
+		top: 44px;
+		overflow: visible;
+	}
+	#Group_11 {
+		position: absolute;
+		width: 75px;
+		height: 24px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#logo_d {
+		position: absolute;
+		width: 75px;
+		height: 24px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_4_d {
+		fill: rgba(23,23,23,1);
+	}
+	.Rectangle_4_d {
+		position: absolute;
+		overflow: visible;
+		width: 75px;
+		height: 24px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_2_d {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_2_d {
+		position: absolute;
+		overflow: visible;
+		width: 18px;
+		height: 15px;
+		left: 7px;
+		top: 5px;
+	}
+	#Path_1_d {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_1_d {
+		overflow: visible;
+		position: absolute;
+		width: 14.416px;
+		height: 10.22px;
+		left: 9.65px;
+		top: 7.52px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Axielol_d {
+		left: 31px;
+		top: 6px;
+		position: absolute;
+		overflow: visible;
+		width: 32px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 9px;
+		color: rgba(255,255,255,1);
+	}
+	#main_d {
+		position: absolute;
+		width: 334px;
+		height: 123px;
+		left: 48px;
+		top: 366px;
+		overflow: visible;
+	}
+	#Rectangle_5_d {
+		fill: rgba(241,193,255,1);
+	}
+	.Rectangle_5_d {
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		height: 9px;
+		left: 47px;
+		top: 46px;
+	}
+	#Experience_a_new_level_of_game_ea {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 335px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(51,51,51,1);
+	}
+	#contiue-button_eb {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 70px;
+		height: 19px;
+		left: 88px;
+		top: 104px;
+		overflow: visible;
+	}
+	#Rectangle_3_ec {
+		fill: rgba(74,74,74,1);
+	}
+	.Rectangle_3_ec {
+		position: absolute;
+		overflow: visible;
+		width: 70px;
+		height: 19px;
+		left: 0px;
+		top: 0px;
+	}
+	#Start_Shopping_ed {
+		left: 13px;
+		top: 6px;
+		position: absolute;
+		overflow: visible;
+		width: 46px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 6px;
+		color: rgba(255,255,255,1);
+	}
+	#contiue-button_ee {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 70px;
+		height: 19px;
+		left: 192px;
+		top: 104px;
+		overflow: visible;
+	}
+	#Rectangle_3_ef {
+		fill: rgba(74,74,74,1);
+		stroke: rgba(238,149,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_3_ef {
+		position: absolute;
+		overflow: visible;
+		width: 70px;
+		height: 19px;
+		left: 0px;
+		top: 0px;
+	}
+	#Contact_us_eg {
+		left: 17px;
+		top: 5px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 7px;
+		color: rgba(255,255,255,1);
+	}
+	#payment_eh {
+		position: absolute;
+		width: 234px;
+		height: 227.396px;
+		left: 98px;
+		top: 857.5px;
+		overflow: visible;
+	}
+	#paypal_ei {
+		position: absolute;
+		width: 25.279px;
+		height: 29.741px;
+		left: 39.719px;
+		top: 105.259px;
+		overflow: visible;
+	}
+	#Group_1_ej {
+		position: absolute;
+		width: 25.279px;
+		height: 29.741px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_3_ek {
+		fill: rgba(51,51,51,1);
+	}
+	.Path_3_ek {
+		overflow: visible;
+		position: absolute;
+		width: 25.279px;
+		height: 29.741px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Paypal {
+		left: 20px;
+		top: 70px;
+		position: absolute;
+		overflow: visible;
+		width: 70px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(51,51,51,1);
+	}
+	#bitcoin_em {
+		position: absolute;
+		width: 22.634px;
+		height: 22.638px;
+		left: 163.183px;
+		top: 105.259px;
+		overflow: visible;
+	}
+	#Path_4_en {
+		fill: rgba(51,51,51,1);
+	}
+	.Path_4_en {
+		overflow: visible;
+		position: absolute;
+		width: 22.634px;
+		height: 22.638px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Bitcoin {
+		left: 138px;
+		top: 70.5px;
+		position: absolute;
+		overflow: visible;
+		width: 74px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(51,51,51,1);
+	}
+	#Litecoin_ep {
+		left: 9px;
+		top: 169.5px;
+		position: absolute;
+		overflow: visible;
+		width: 85px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(51,51,51,1);
+	}
+	#litecoin_eq {
+		position: absolute;
+		width: 22.637px;
+		height: 22.637px;
+		left: 39.681px;
+		top: 204.759px;
+		overflow: visible;
+	}
+	#Path_5_er {
+		fill: rgba(51,51,51,1);
+	}
+	.Path_5_er {
+		overflow: visible;
+		position: absolute;
+		width: 22.637px;
+		height: 22.637px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ethereum_es {
+		position: absolute;
+		width: 13.997px;
+		height: 22.637px;
+		left: 167.501px;
+		top: 204.259px;
+		overflow: visible;
+	}
+	#Path_6_et {
+		fill: rgba(51,51,51,1);
+	}
+	.Path_6_et {
+		overflow: visible;
+		position: absolute;
+		width: 13.998px;
+		height: 22.637px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Etherum_eu {
+		left: 129.5px;
+		top: 169.5px;
+		position: absolute;
+		overflow: visible;
+		width: 91px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(51,51,51,1);
+	}
+	#Payment_Methods_ev {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 235px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(148,148,148,1);
+	}
+	#stats_ew {
+		transform: matrix(1,0,0,1,-81.2089,1624.2911) rotate(90deg);
+		transform-origin: center;
+		position: absolute;
+		width: 592.418px;
+		height: 169px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_6_ey {
+		fill: url(#Rectangle_6_ey);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_6_ey {
+		position: absolute;
+		overflow: visible;
+		width: 169px;
+		height: 592.418px;
+		left: 0px;
+		top: 0px;
+	}
+	#n_000_ez {
+		transform: translate(1044px, -369.082px) matrix(1,0,0,1,372,932.5) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 121px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 39px;
+		color: rgba(51,51,51,1);
+	}
+	#Already_Registered__Users {
+		transform: translate(1044px, -369.082px) matrix(1,0,0,1,416,940) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 125px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(91,91,91,1);
+	}
+	#NA_e {
+		transform: translate(1044px, -369.082px) matrix(1,0,0,1,615,932.5) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 39px;
+		color: rgba(51,51,51,1);
+	}
+	#Product_use_per__month {
+		transform: translate(1044px, -369.082px) matrix(1,0,0,1,629,935) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 137px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(91,91,91,1);
+	}
+	#NA_fa {
+		transform: translate(1044px, -369.082px) matrix(1,0,0,1,833,932.5) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 39px;
+		color: rgba(51,51,51,1);
+	}
+	#Uptime_e {
+		transform: translate(1044px, -369.082px) matrix(1,0,0,1,875,946) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Manrope;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(91,91,91,1);
+	}
+} */

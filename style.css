@@ -1906,7 +1906,7 @@
 	font-weight: normal;
 	font-size: 16px;
 	color: rgba(109,109,109,1);
-	text-decoration: line-through line-through;
+	text-decoration: line-through;
 }
 #balls {
 	position: absolute;
